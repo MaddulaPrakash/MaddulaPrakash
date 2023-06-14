@@ -10,7 +10,8 @@
 
 📫  Reach me on Email/LinkedIn .
 
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](ttps://www.linkedin.com/in/prakash-maddula-89496b179/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fnmaddul@iu.edu?subject=[Github])
 
 <!--
 **MaddulaPrakash/MaddulaPrakash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

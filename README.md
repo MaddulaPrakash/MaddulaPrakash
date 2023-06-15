@@ -6,7 +6,7 @@
 
 👯 Looking to collaborate in Software development projects and also have an edge in Machine learning and deep learning .
 
-💬 Ask me about end to end application/feature development .
+💬 Ask me about end to end application/feature development and data science
 
 📫  Reach me on Email/LinkedIn .
 

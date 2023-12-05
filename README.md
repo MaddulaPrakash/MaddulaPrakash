@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 I am working as Research Assistant under Dr.Davide Bolchini as a Java developer for a Google funded project which focuses on bringing up screenless typing. 
+🔭 I am working as Research Assistant under Dr.Davide Bolchini  for a Google funded project which focuses on bringing up screenless typing. 
 
 🌱 Worked as a Software Developer with HP Inc, and played a key role in delivery  of numerous home based HP printers between 2018 - 2022 .
 

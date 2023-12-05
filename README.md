@@ -4,7 +4,7 @@
 
 🌱 Worked as a Software Developer with HP Inc, and played a key role in delivery  of numerous home based HP printers between 2018 - 2022 .
 
-👯 Looking to collaborate in Software development projects and also have an edge in Machine learning and deep learning .
+👯 Looking to collaborate in Software development/Machine Learning/Deep Learning/Computer Vision projects.
 
 💬 Ask me about end to end application/feature development and data science
 
